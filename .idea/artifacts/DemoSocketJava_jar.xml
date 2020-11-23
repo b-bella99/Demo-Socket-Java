@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DemoSocketJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemoSocketJava_jar</output-path>
+    <root id="archive" name="DemoSocketJava.jar">
+      <element id="module-output" name="DemoSocketJava" />
+    </root>
+  </artifact>
+</component>
